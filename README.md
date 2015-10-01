@@ -1,3 +1,3 @@
 # uusrepo
 
-mul on mõte tühi hallo-hallo
+see on lahe readme ja mul on mõte tühi hallo-hallo
